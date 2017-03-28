@@ -1,4 +1,4 @@
-# CodeLouisville-Front-End-Project
+﻿# CodeLouisville-Front-End-Project
 Requirements:
 
 Your project is responsive to different devices and/or browser sizes/resolutions. At minimum, it must have 3 different displays/views, meaning 2 media queries/breakpoints or other forms of responsiveness. You do not have to account for all possible devices, but your user experience should change to improve as screen size or device viewing changes.
@@ -19,4 +19,4 @@ Purpose of the Project:
 Provide access to the resources of Cuba Support Ministry through the web in a very interactive and simple way.
 
 How to viwe de website:
-"Run index.html"
+Run index.html
